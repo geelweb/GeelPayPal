@@ -7,7 +7,7 @@
  *
  * @version $Revision$
  * @author  Guillaume Luchet <guillaume@geelweb.org>
- * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
+ * @copyright Copyright (c) 2010, 
  */
 
 require_once 'GeelPayPal/Request/Abstract.php';
@@ -17,7 +17,7 @@ require_once 'GeelPayPal/Request/Abstract.php';
  * GeelPayPal_Request_DoAuthorization
  *
  * @version $Revision$
- * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
+ * @copyright Copyright (c) 2010, 
  * @author Guillaume Luchet <guillaume@geelweb.org>
  * @license
  * @package

@@ -8,7 +8,7 @@
  *
  * @version $Revision$
  * @author  Guillaume Luchet <guillaume@geelweb.org>
- * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
+ * @copyright Copyright (c) 2010, 
  */
 
 class GeelPayPal_Requester_Credentials

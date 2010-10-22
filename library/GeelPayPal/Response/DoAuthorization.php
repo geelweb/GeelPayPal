@@ -6,14 +6,14 @@
  *
  * @version $Revision$
  * @author  Guillaume Luchet <guillaume@geelweb.org>
- * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
+ * @copyright Copyright (c) 2010, 
  */
 
 /**
  * GeelPayPal_Response_DoAuthorization
  *
  * @version $Revision$
- * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
+ * @copyright Copyright (c) 2010, 
  * @author Guillaume Luchet <guillaume@geelweb.org>
  * @license
  * @package
