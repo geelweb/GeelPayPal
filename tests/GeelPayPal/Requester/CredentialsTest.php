@@ -5,7 +5,7 @@
  * Test the GeelPayPal_Requester_Credentials object
  *
  * @version $Revision$
- * @author  Guillaume Luchet <gluchet@elma.fr>
+ * @author  Guillaume Luchet <guillaume@geelweb.org>
  * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
  */
 

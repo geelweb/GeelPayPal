@@ -5,7 +5,7 @@
  * PayPal payment info type implementation
  *
  * @version $Revision$
- * @author  Guillaume Luchet <gluchet@elma.fr>
+ * @author  Guillaume Luchet <guillaume@geelweb.org>
  * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
  */
 
@@ -14,7 +14,7 @@
  *
  * @version $Revision$
  * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
- * @author Guillaume Luchet <gluchet@elma.fr>
+ * @author Guillaume Luchet <guillaume@geelweb.org>
  * @license
  * @package
  */

@@ -7,7 +7,7 @@
  * Define the credentials part to include in the SOAP request header
  *
  * @version $Revision$
- * @author  Guillaume Luchet <gluchet@elma.fr>
+ * @author  Guillaume Luchet <guillaume@geelweb.org>
  * @copyright Copyright (c) 2010, Elma Ingénierie Informatique
  */
 
